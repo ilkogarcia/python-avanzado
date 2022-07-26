@@ -1,0 +1,5 @@
+DEBUG:root:Registro de eventos de depuración
+INFO:root:Registro de eventos informativos
+WARNING:root:Registro de advertecias
+ERROR:root:Registro de errores
+CRITICAL:root:Registro de errores críticos
